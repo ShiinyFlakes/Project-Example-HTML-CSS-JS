@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+#rot{
+background-color: red;
+border: none;
+border-radius: 50%;
+width: 150px;
+height: 150px;
+cursor: pointer;
+font-size: 2rem;
+}
+#gelb{
+    background-color: yellow;
+    border: none;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    font-size: 2rem;
+}
+#grün{
+    background-color: green;
+border: none;
+border-radius: 50%;
+width: 150px;
+height: 150px;
+cursor: pointer;
+font-size: 2rem;
+}
+
+p{
+    font-size: 4rem;
+    font-weight: bolder;
+}
